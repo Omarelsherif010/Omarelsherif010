@@ -9,7 +9,7 @@
         <img src="https://raw.githubusercontent.com/AhmedFathyDev/AhmedFathyDev/main/GitHub.png" alt="GitHub Octocat Drinking a Cup of Coffee" height="200">
     </div>
 
-- 🔭 I’m currently working on **Psychiatric Disorders Classification Research using NN**
+- 🔭 I’m currently working on **DNAplotlib library version 2 and MCI disease treatment**
 
 - 🌱 I’m currently learning **SBOL3 and Microsoft Azure**
 
@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **omarelsherif010@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1tDzRjVOv6zMw4E6HKz6IsTYQ2cSs8ZMB/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1kbjtSYr9VGW5TiaUtpvCzCluo-D0ROUE/view?usp=sharing)
 
 - ⚡ Fun fact **I love skating⛸️**
 
