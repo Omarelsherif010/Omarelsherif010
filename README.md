@@ -9,9 +9,9 @@
         <img src="https://raw.githubusercontent.com/AhmedFathyDev/AhmedFathyDev/main/GitHub.png" alt="GitHub Octocat Drinking a Cup of Coffee" height="200">
     </div>
 
-- 🔭 I’m currently working on **DNAplotlib library version 2 and MCI disease treatment**
+- 🔭 I’m currently working on **PandasAI Library**
 
-- 🌱 I’m currently learning **SBOL3 and Microsoft Azure**
+- 🌱 I’m currently learning **LLMs and AWS**
 
 - 👯 I’m looking to collaborate on **Open Source Projects**
 
