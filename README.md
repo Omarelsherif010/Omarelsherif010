@@ -11,7 +11,7 @@
 
 <!-- - 🔭 I’m currently working on **Obelaw Documentation** -->
 
-- 🌱 I’m currently learning **Design Patterns**
+- 🌱 I’m currently learning **Design Patterns** and **LLMs**
 
 - 👯 I’m looking to collaborate on **Open Source Projects**
 
