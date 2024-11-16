@@ -17,9 +17,7 @@
 
 - 📫 How to reach me **omarelsherif010@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1jwCDbSnR4Gf51FlorGeTnJTdhOtqN1o0/view?usp=sharing)
-
-- ⚡ Fun fact **I love skating⛸️**
+- ⚡ Fun fact **I love skating⛸️** and **Chess**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
