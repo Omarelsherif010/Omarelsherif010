@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Omar Elsherif</h1>
-<h3 align="center">A passionate Software Engineer and Data Lover</h3>
+<h3 align="center">A passionate AI Engineer and Data Lover</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=omarelsherif010&label=Profile%20views&color=0e75b6&style=flat" alt="omarelsherif010" /> </p>
 
@@ -11,7 +11,7 @@
 
 <!-- - 🔭 I’m currently working on **Obelaw Documentation** -->
 
-- 🌱 I’m currently learning **Design Patterns** and **LLMs**
+- 🌱 I’m currently learning **LLMs Agents and Fine Tuning**
 
 - 👯 I’m looking to collaborate on **Open Source Projects**
 
