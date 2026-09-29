@@ -6,6 +6,7 @@
 [![YouTube](https://img.shields.io/badge/YouTube-@omarelsherif010-FF0000?logo=youtube&logoColor=white)](https://www.youtube.com/@omarelsherif010)
 [![X](https://img.shields.io/badge/X-@omarelsherif010-000000?logo=x&logoColor=white)](https://twitter.com/omarelsherif010)
 [![Email](https://img.shields.io/badge/Email-omarelsherif010%40gmail.com-EA4335?logo=gmail&logoColor=white)](mailto:omarelsherif010@gmail.com)
+[![Topmate](https://img.shields.io/badge/Topmate-Book%20a%20free%20session-E44332)](https://topmate.io/omarelsherif010)
  
 I build LLM systems that hold up in production: agents, RAG pipelines, and the evaluation and serving infrastructure behind them.
  
@@ -19,23 +20,28 @@ I build LLM systems that hold up in production: agents, RAG pipelines, and the e
 ### 🧰 Stack
  
 **LLMs & Agents:** LangChain · LangGraph · OpenAI API · Hugging Face · Unsloth · LoRA / DPO / RLAIF
+
 **Serving & Training:** vLLM · DeepSpeed · Accelerate · RunPod · AWS SageMaker
+
 **Retrieval & Data:** Qdrant · Pinecone · PostgreSQL · Supabase · LlamaParse
+
 **Eval & Observability:** Langfuse · LLM-as-judge · Pytest · GitHub Actions
  
 <p>
   <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,fastapi,postgres,supabase,docker,aws,azure,githubactions,nextjs,linux&perline=13" alt="tech stack" />
 </p>
+
 ### 🌍 Community
  
-Founder of **Arab Contributors** · Former **GitHub Campus Expert** · Microsoft Learn Student Ambassador · Topmate mentor (all proceeds go to charity)
+**GitHub Campus Expert**  · Microsoft Learn Student Ambassador  · [**Topmate mentor**](https://topmate.io/omarelsherif010): Top 1%, 130+ sessions, 4.9★, 100% of income to charity
  
 ### 📊 GitHub Stats
- 
+
 <p>
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Omarelsherif010&show_icons=true&hide_border=true&theme=transparent" alt="GitHub stats" />
   <img height="165" src="https://streak-stats.demolab.com?user=Omarelsherif010&hide_border=true&theme=transparent" alt="GitHub streak" />
 </p>
+
+
 ---
  
 💬 Building with LLMs or thinking about AI in finance? Reach out: *"Hi Omar, let's create something cool."*
