@@ -33,7 +33,7 @@ I build LLM systems that hold up in production: agents, RAG pipelines, and the e
 
 ### 🌍 Community
  
-**GitHub Campus Expert**  · Microsoft Learn Student Ambassador  · [**Topmate mentor**](https://topmate.io/omarelsherif010): Top 1%, 130+ sessions, 4.9★, 100% of income to charity
+Former **GitHub Campus Expert**  · Microsoft Learn Student Ambassador  · [**Topmate mentor**](https://topmate.io/omarelsherif010): Top 1%, 130+ sessions, 4.9★, 100% of income to charity
  
 ### 📊 GitHub Stats
 
